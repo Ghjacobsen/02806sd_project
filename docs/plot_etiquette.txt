@@ -1,0 +1,51 @@
+DATA VISUALIZATION GUIDELINES FOR CODE GENERATION
+
+1. Maximize Data-to-Ink Ratio
+    - Remove unnecessary gridlines, borders, and decorations
+    - Every visual element must convey information
+    - Simplify when possible without losing clarity
+
+2. Label All Elements
+    - Every axis must have a descriptive label with units
+    - Title should clearly describe what is plotted
+    - Use figure captions to explain context and findings
+
+3. Appropriate Scaling and Zoom
+    - Adjust axis limits to show relevant data range
+    - Avoid misleading truncated axes
+    - Ensure plots are readable when embedded in documents
+
+4. Professional Typography
+    - Use consistent, readable fonts (e.g., sans-serif)
+    - Ensure font size is legible (minimum 10pt for embedded plots)
+    - Match font styling across all plots in a document
+
+5. Honest Data Representation
+    - Always verify axis ranges are not manipulated deceptively
+    - Include error bars or confidence intervals when applicable
+    - Clearly mark any data transformations or outlier removals
+
+6. Meaningful Axis Intervals
+    - Use round numbers for tick marks when possible
+    - Space ticks to avoid overcrowding
+    - Include secondary axis labels if needed for clarity
+
+7. Include Legends and Annotations
+    - Add legends for multiple series/colors with clear descriptions
+    - Annotate important points or thresholds
+    - Use text annotations sparingly and relevantly
+
+8. Effective Color Usage
+    - Use colorblind-friendly palettes
+    - Ensure colors add information, not decoration
+    - Justify each color choice in relation to data
+
+9. Logical Subplot Organization
+    - Arrange subplots in intuitive grid layouts
+    - Use consistent scales across related subplots
+    - Share axes when appropriate to aid comparison
+
+10. Optimize for Context
+     - Match plot style to publication venue
+     - Consider aspect ratio for intended display medium
+     - Balance aesthetic appeal with information density
